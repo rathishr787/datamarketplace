@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T17:01:36.759Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="f6-fH9GRjuMVZr_iUkId" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-13T21:09:36.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aMchBXTVc42A_uM4Pgoi" version="20.3.0" type="github" pages="2">
   <diagram name="Option1-Current model" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="4012" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -412,7 +412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gxRY54ko3T3WczhGh7Y0" name="Option2-Optimized">
-    <mxGraphModel dx="3032" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1551" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -927,30 +927,6 @@
         </mxCell>
         <mxCell id="j1Fs5PiYSmfmpDfGVvOQ-46" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;labelBackgroundColor=default;strokeColor=#000000;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="353.75" y="988" width="30" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="j1Fs5PiYSmfmpDfGVvOQ-47" value="&lt;u&gt;GLM ingestion topics&lt;/u&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="750" y="970" width="140" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="j1Fs5PiYSmfmpDfGVvOQ-48" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="754.25" y="990" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="j1Fs5PiYSmfmpDfGVvOQ-49" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="754.25" y="1003" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="j1Fs5PiYSmfmpDfGVvOQ-50" value="Initial" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="826" y="984" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="j1Fs5PiYSmfmpDfGVvOQ-51" value="Delta Load" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="840" y="998" width="31" height="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j1Fs5PiYSmfmpDfGVvOQ-52" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="j1Fs5PiYSmfmpDfGVvOQ-47" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="687" y="992" as="sourcePoint" />
-            <mxPoint x="815.6300000000001" y="1051.5747697870179" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="1005" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
