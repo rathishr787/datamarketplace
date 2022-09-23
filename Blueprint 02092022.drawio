@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T00:01:20.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="R997nvGhRcIxh43Rq_1D" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-23T00:03:11.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="y03Lml9MEXutUII1dD6f" version="20.3.0" type="github" pages="3">
   <diagram name="Option1-Current model" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2012" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -890,7 +890,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fDGUIiUeJ9rWwpsVIXQc" name="Optimized-final location sources">
-    <mxGraphModel dx="4803" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3222" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1203,26 +1203,26 @@
           <mxGeometry x="-28.74000000000001" y="973" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-76" value="&lt;u&gt;GLM ingestion topics&lt;/u&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="200" y="848" width="140" height="45" as="geometry" />
+          <mxGeometry x="200" y="933" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-77" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="868" width="55.75" height="10" as="geometry" />
+          <mxGeometry x="204.25" y="953" width="55.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-78" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="881" width="55.75" height="10" as="geometry" />
+          <mxGeometry x="204.25" y="966" width="55.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-79" value="Initial" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="276" y="862" width="30" height="20" as="geometry" />
+          <mxGeometry x="276" y="947" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-80" value="Delta Load" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="290" y="876" width="31" height="1" as="geometry" />
+          <mxGeometry x="290" y="961" width="31" height="1" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-81" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X2noZ7CITQt0L0CGcdTc-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="869.9999999999998" as="sourcePoint" />
-            <mxPoint x="265.6300000000001" y="929.5747697870179" as="targetPoint" />
+            <mxPoint x="137" y="954.9999999999998" as="sourcePoint" />
+            <mxPoint x="265.6300000000001" y="1014.5747697870179" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="883" />
+              <mxPoint x="170" y="968" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1233,122 +1233,50 @@
           <mxGeometry x="30" y="849" width="110" height="306" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-84" value="&lt;u&gt;NDS ingestion topics&lt;/u&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="200" y="898" width="140" height="45" as="geometry" />
+          <mxGeometry x="200" y="983" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-85" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="918" width="55.75" height="10" as="geometry" />
+          <mxGeometry x="204.25" y="1003" width="55.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-86" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="931" width="55.75" height="10" as="geometry" />
+          <mxGeometry x="204.25" y="1016" width="55.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-87" value="Initial" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="276" y="912" width="30" height="20" as="geometry" />
+          <mxGeometry x="276" y="997" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-88" value="Delta Load" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="290" y="926" width="31" height="1" as="geometry" />
+          <mxGeometry x="290" y="1011" width="31" height="1" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-89" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X2noZ7CITQt0L0CGcdTc-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="919.9999999999998" as="sourcePoint" />
-            <mxPoint x="265.6300000000001" y="979.5747697870179" as="targetPoint" />
+            <mxPoint x="137" y="1004.9999999999998" as="sourcePoint" />
+            <mxPoint x="265.6300000000001" y="1064.5747697870179" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="933" />
+              <mxPoint x="170" y="1018" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-90" value="&lt;u&gt;RU ingestion topics&lt;/u&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="200" y="949" width="140" height="45" as="geometry" />
+          <mxGeometry x="200" y="1034" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-91" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="969" width="55.75" height="10" as="geometry" />
+          <mxGeometry x="204.25" y="1054" width="55.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-92" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="982" width="55.75" height="10" as="geometry" />
+          <mxGeometry x="204.25" y="1067" width="55.75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-93" value="Initial" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="276" y="963" width="30" height="20" as="geometry" />
+          <mxGeometry x="276" y="1048" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-94" value="Delta Load" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="290" y="977" width="31" height="1" as="geometry" />
+          <mxGeometry x="290" y="1062" width="31" height="1" as="geometry" />
         </mxCell>
         <mxCell id="X2noZ7CITQt0L0CGcdTc-95" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X2noZ7CITQt0L0CGcdTc-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="971" as="sourcePoint" />
-            <mxPoint x="265.6300000000001" y="1030.5747697870179" as="targetPoint" />
+            <mxPoint x="137" y="1056" as="sourcePoint" />
+            <mxPoint x="265.6300000000001" y="1115.5747697870179" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="984" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-96" value="&lt;u&gt;Brain ingestion topics&lt;/u&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="200" y="999.5" width="140" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-97" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="1019.5" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-98" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="1032.5" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-99" value="Initial" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="276" y="1013.5" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-100" value="Delta Load" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="290" y="1027.5" width="31" height="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-101" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X2noZ7CITQt0L0CGcdTc-96">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="1021.5000000000002" as="sourcePoint" />
-            <mxPoint x="265.6300000000001" y="1081.0747697870179" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="1034.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-102" value="&lt;u&gt;Mesh ingestion topics&lt;/u&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1050" width="140" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-103" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="1070" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-104" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="1083" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-105" value="Initial" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="276" y="1064" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-106" value="Delta Load" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="290" y="1078" width="31" height="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-107" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X2noZ7CITQt0L0CGcdTc-102">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="1072" as="sourcePoint" />
-            <mxPoint x="265.6300000000001" y="1131.5747697870179" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="1085" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-108" value="&lt;u&gt;Comsof ingestion topics&lt;/u&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1100" width="140" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-109" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="1120" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-110" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.queue;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204.25" y="1133" width="55.75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-111" value="Initial" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="276" y="1114" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-112" value="Delta Load" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
-          <mxGeometry x="290" y="1128" width="31" height="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X2noZ7CITQt0L0CGcdTc-113" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X2noZ7CITQt0L0CGcdTc-108">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137" y="1122" as="sourcePoint" />
-            <mxPoint x="265.6300000000001" y="1181.5747697870179" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="1135" />
+              <mxPoint x="170" y="1069" />
             </Array>
           </mxGeometry>
         </mxCell>
